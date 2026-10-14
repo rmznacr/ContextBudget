@@ -1,0 +1,27 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Frontend
+**/node_modules/
+**/dist/
+**/TestResults/
+**/coverage/
+web/.vite/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+**/secrets.json
+**/appsettings.Local.json
+
+# IDE and OS
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp

@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ContextBudget.Api/ContextBudget.Api.csproj" />
+    <Project Path="src/ContextBudget.Application/ContextBudget.Application.csproj" />
+    <Project Path="src/ContextBudget.Domain/ContextBudget.Domain.csproj" />
+    <Project Path="src/ContextBudget.Infrastructure/ContextBudget.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ContextBudget.Tests/ContextBudget.Tests.csproj" />
+  </Folder>
+</Solution>

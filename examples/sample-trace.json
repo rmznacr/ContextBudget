@@ -1,0 +1,15 @@
+{
+  "traceId": "synthetic-demo-001",
+  "correlationId": "synthetic-demo-001",
+  "provider": "demo-provider",
+  "model": "demo-model",
+  "timestamp": "2026-10-14T12:00:00Z",
+  "status": "success",
+  "latencyMs": 420,
+  "usage": { "inputTokens": 120, "outputTokens": 34, "cachedTokens": null },
+  "messages": [
+    { "role": "system", "contentType": "text", "content": "You are a concise assistant. This is synthetic demo data." },
+    { "role": "user", "contentType": "text", "content": "Summarize this note in one sentence." },
+    { "role": "assistant", "contentType": "text", "content": "The note describes a synthetic project update." }
+  ]
+}

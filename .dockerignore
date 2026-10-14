@@ -1,0 +1,8 @@
+.git
+.vs
+**/bin
+**/obj
+web/node_modules
+web/dist
+web/npm-debug.log*
+.env
